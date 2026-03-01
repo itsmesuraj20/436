@@ -4,7 +4,6 @@
 
 ## 1. Login
 - Open Control-M URL:  
-  `https://gevstage.us3.controlm.com/`
 - Go to **Planning** tab.
 
 ---
