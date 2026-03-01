@@ -106,3 +106,11 @@
 
 - Click **View Scheduler**
 - Set:
+
+---
+
+## 13. Configure Failure Notification
+
+- Go to **Actions → Add**
+
+### To:
