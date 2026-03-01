@@ -74,3 +74,35 @@
 
 - **Application:** `CLIENT6070`
 - **Sub Application:**
+
+
+(Use `JOBP` prefix)
+
+---
+
+## 10. Save Job
+
+- Click **Check In**
+
+> Until Check In, data is not saved in the database.
+
+---
+
+## 11. Scheduling Setup
+
+- Click **Modify**
+- Go to **Scheduling** tab
+- Click **Advanced → Edit**
+
+### Options:
+- Single Run → Select `NONE`
+- Weekly Run → Select specific weekday (e.g., Monday)
+
+- Click **OK**
+
+---
+
+## 12. Validate Schedule
+
+- Click **View Scheduler**
+- Set:
