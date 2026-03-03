@@ -112,4 +112,3 @@
 
 - Go to **Actions → Add**
 
-### To:
