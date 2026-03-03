@@ -34,7 +34,7 @@
 ---
 
 ## 5. Take Reference Job (CLIENT6070)
-- Scroll and find **CLIENT6070**
+- Scroll and find **CLIENTXXXX**
 - Open workspace
 - Select a similar job
 - Click **Modify / Take Ownership**
@@ -51,8 +51,8 @@
 
 ## 7. General Configuration
 
-- **Connection Profile:** `ALTAIS_SAP`
-- **Host / Host Group:** `HOSTG.SAP.ALTAIS`
+- **Connection Profile:** `XXXXX`
+- **Host / Host Group:** `XXXX.XXXX.XXXX`
 - **SAP Job Name:** Enter actual SAP job name  
   (Do NOT paste Control-M job name here)
 
@@ -71,7 +71,7 @@
 
 ## 9. Application Settings
 
-- **Application:** `CLIENT6070`
+- **Application:** `CLIENTXXXX`
 - **Sub Application:**
 
 
